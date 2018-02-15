@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="front_button_gold">#ffcc00</color>
+    <color name="front_button_red_outside">#ff2222</color>
+    <color name="front_button_red_inside">#ff9999</color>
+    <color name="front_button_blue_outside">#00ccff</color>
+    <color name="front_button_blue_inside">#0033ff</color>
+    <color name="front_button_shadow_red">#990000</color>
+    
+    <color name="front_button_cream">#fff8ee</color>
+    <color name="front_button_white">#ffffff</color>
+    <color name="front_button_red_outline">#ff1100</color>
+    <color name="front_button_blue_text">#0099ff</color>
+    <color name="front_button_blue">#0099ff</color>
+    <color name="front_button_blue_dark">#0088ee</color>
+    <color name="black">#000000</color>
+    <color name="green">#339900</color>
+    <color name="purple">#cc00cc</color>
+    <color name="pink">#ff6699</color>
+    <color name="orange">#ff9933</color>
+    <color name="aqua">#99ffff</color>
+    <color name="gray">#555555</color>
+    <color name="light_gray">#aaaaaa</color>
+    <color name="dark_gray">#222222</color>
+    <color name="white">#ffffff</color>
+    
+    
+</resources>

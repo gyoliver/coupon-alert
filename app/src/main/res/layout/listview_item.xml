@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Single List Item Design -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coupon_background_selector"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context=".FrontPage" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content">
+    	
+    	
+	    <TextView
+	        android:id="@+id/store"
+	        android:layout_width="124dp"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:layout_alignParentTop="true"
+	        android:layout_toLeftOf="@+id/amount"
+	        android:gravity="left"
+	        android:paddingTop="8dp"
+	        android:paddingLeft="4dp"
+	        android:textSize="14sp"
+	        android:textStyle="bold"/>
+	        <!-- android:background="@color/aqua" -->
+	        
+	
+	    <TextView
+	        android:id="@+id/amount"
+	        android:layout_width="80dp"
+	        android:layout_height="wrap_content"
+	        android:layout_alignTop="@+id/store"
+	        android:layout_toLeftOf="@+id/date"
+	        android:gravity="right"
+	        android:paddingTop="8dp"
+	        android:paddingLeft="3dp"
+	        android:paddingRight="3dp"
+	        android:textSize="14sp"
+	        android:textStyle="bold"/>
+	        <!--android:background="@color/gray"   -->
+	        
+	    
+	    <TextView
+	       android:id="@+id/date"
+	       android:layout_width="85dp"
+	       android:layout_height="30dp"
+	       android:layout_alignTop="@+id/store"
+	       android:layout_alignParentRight="true"
+	       android:gravity="right"
+	       android:paddingLeft="8dp"
+	       android:paddingTop="8dp"
+	       android:textSize="14sp"
+	       android:textStyle="bold"
+	       android:textColor="@color/front_button_blue_text"/>
+	       
+	       <!-- android:background="@color/purple"  -->
+	       
+   
+    
+	
+	    
+	
+	</RelativeLayout>
+
+    <TextView
+        android:id="@+id/notes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/product"
+        android:paddingBottom="8dp"
+        android:paddingLeft="18dp"
+        android:paddingTop="1dp"
+        android:textSize="14sp"/>
+    
+        <!-- android:background="@color/front_button_red_inside" -->
+        
+
+    <TextView
+        android:id="@+id/product"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/relativeLayout1"
+        android:paddingBottom="5dp"
+        android:paddingLeft="4dp"
+        android:paddingTop="4dp"
+        android:textSize="14sp" />
+    	<!-- android:background="@color/pink" -->
+
+</RelativeLayout>

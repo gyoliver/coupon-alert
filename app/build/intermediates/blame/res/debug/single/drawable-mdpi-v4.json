@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_view_as_list.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\ic_action_view_as_list.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_important.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_notification.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\icon_notification.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_important_light.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\ic_action_important_light.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_picture.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_picture_light.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\ic_action_picture_light.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_view_as_list_light.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-mdpi\\ic_action_view_as_list_light.png"
+    }
+]

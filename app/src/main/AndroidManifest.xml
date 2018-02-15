@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gyoliver.couponalert"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+    
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.gyoliver.couponalert.FrontPage"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.gyoliver.couponalert.NewCoupon"
+            android:label="@string/activity_title_new_coupon" >
+        </activity>
+        <activity
+            android:name="com.gyoliver.couponalert.ViewEdit"
+            android:label="@string/activity_title_view_edit" >
+        </activity>
+        <activity
+            android:name="com.gyoliver.couponalert.EditCoupon"
+            android:label="@string/activity_title_edit_coupon" >
+        </activity>
+        <activity
+            android:name="com.gyoliver.couponalert.Help"
+            android:label="@string/activity_title_help"
+            android:theme="@style/CustomTheme" >
+        </activity>
+        <activity android:name="com.gyoliver.couponalert.HelpQuickStart" />
+        <activity android:name="com.gyoliver.couponalert.HelpGeneral" />
+        <activity android:name="com.gyoliver.couponalert.HelpScreenshots" />
+        
+        
+        <receiver android:name="com.gyoliver.couponalert.AlarmReceiver"
+	        android:enabled="true"
+	        android:exported="true"
+	        android:label="AlarmReceiver">
+	        <intent-filter>
+	            <action android:name="com.example.couponhelper.COUPON_CREATED" />
+	        </intent-filter>
+    	</receiver>
+    	
+        <receiver android:name="com.gyoliver.couponalert.BootReceiver"
+	        android:enabled="true"
+	        android:exported="true"
+	        android:label="BootReceiver">
+	        <intent-filter>
+	            <action android:name="android.intent.action.BOOT_COMPLETED"/>
+	            <category android:name="android.intent.category.DEFAULT" />
+	        </intent-filter>
+    	</receiver>
+    	
+        
+        
+    </application>
+
+</manifest>

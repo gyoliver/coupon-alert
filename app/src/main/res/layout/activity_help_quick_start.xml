@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view_help"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/dark_gray" >
+
+    <RelativeLayout
+        android:id="@+id/help_relative_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/quick_start_title"
+            style="@style/HelpHeading1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quick_start" />
+
+        <TableLayout
+            android:id="@+id/TableLayout01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/quick_start_title" >
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_quick_start_1"
+                    style="@style/HelpBody"
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="1dp"
+                    android:text="@string/bullet" />
+
+                <TextView
+                    android:id="@+id/quick_start_text_1"
+                    style="@style/HelpBody"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/quick_start_text_1" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_quick_start_2"
+                    style="@style/HelpBody"
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="1dp"
+                    android:text="@string/bullet" />
+
+                <TextView
+                    android:id="@+id/quick_start_text_2"
+                    style="@style/HelpBody"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/quick_start_text_2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_quick_start_3"
+                    style="@style/HelpBody"
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="1dp"
+                    android:text="@string/bullet" />
+
+                <TextView
+                    android:id="@+id/quick_start_text_3"
+                    style="@style/HelpBody"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/quick_start_text_3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_quick_start_4"
+                    style="@style/HelpBody"
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="1dp"
+                    android:text="@string/bullet" />
+
+                <TextView
+                    android:id="@+id/quick_start_text_4"
+                    style="@style/HelpBody"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/quick_start_text_4" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_quick_start_5"
+                    style="@style/HelpBody"
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="1dp"
+                    android:text="@string/bullet" />
+
+                <TextView
+                    android:id="@+id/quick_start_text_5"
+                    style="@style/HelpBody"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/quick_start_text_5" />
+            </TableRow>
+        </TableLayout>
+	</RelativeLayout>
+</ScrollView>

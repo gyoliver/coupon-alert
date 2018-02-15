@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_view_as_list.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_view_as_list.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\screenshot_view_edit1.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\screenshot_view_edit1.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_important.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_view_as_list_light.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_view_as_list_light.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\screenshot_view_edit2_delete_used_box.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\screenshot_view_edit2_delete_used_box.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_picture.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\screenshot_notification1.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\screenshot_notification1.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_important_light.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_important_light.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\screenshot_new_coupon.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\screenshot_new_coupon.png"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_picture_light.png",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_picture_light.png"
+    }
+]

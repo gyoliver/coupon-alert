@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_coupon.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_edit_coupon.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_screenshots.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_help_screenshots.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_coupon.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_new_coupon.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_edit.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_view_edit.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_general.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_help_general.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_front_page.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_front_page.xml"
+    },
+    {
+        "merged": "C:\\George\\AndroidProjects\\CouponAlert\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_quick_start.xml",
+        "source": "C:\\George\\AndroidProjects\\CouponAlert\\app\\src\\main\\res\\layout\\activity_help_quick_start.xml"
+    }
+]
